@@ -11,3 +11,7 @@ SET-UP
 
     - A documentation of Pygal installation can be found here: https://www.pygal.org/en/stable/installing.html
     - A documentation of Pycountry can be found here: https://pypi.org/project/pycountry/
+
+NOTES
+
+The program renders the SVG files to a folder called COVIDMaps in the current path. The rendering can be redirected by changing the path on line 105
