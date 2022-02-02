@@ -16,7 +16,7 @@ class covidData:
     api_url = "https://covid-193.p.rapidapi.com/statistics"
     api_headers = {
             'x-rapidapi-host': "covid-193.p.rapidapi.com",
-            'x-rapidapi-key': "4954a42f0dmsh6df871a07636fabp1c076ajsn81021d909ab8"
+            'x-rapidapi-key': "{INSERT KEY}"
             }
     
     def get_data(self, type):
