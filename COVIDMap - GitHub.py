@@ -94,11 +94,11 @@ class covidMaps:
         
         # Visualizes data on world map
         self.map.add("> 1,000,000", self.v_high_cases)
-        self.map.add("500,000", self.high_cases)
-        self.map.add("100,000", self.med_high_cases)
-        self.map.add("50,000", self.med_cases)
-        self.map.add("10,000", self.med_low_cases)
-        self.map.add("5,000", self.low_cases)
+        self.map.add("1,000,000", self.high_cases)
+        self.map.add("500,000", self.med_high_cases)
+        self.map.add("100,000", self.med_cases)
+        self.map.add("50,000", self.med_low_cases)
+        self.map.add("10,000", self.low_cases)
         self.map.add("< 5,000", self.v_low_cases)
 
         # Renders world map to specified path
