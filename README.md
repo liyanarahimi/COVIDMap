@@ -5,8 +5,6 @@ DESCRIPTION
 
 This program uses Pygal's World Map module to visualize COVID-19 statistics on an interactive world map in SVG format
 
-![alt_text](https://github.com/liyanarahimi/COVIDMap/blob/3fb1846d9b2a3d89e03cbc9dc8a27077367ae586/active.svg?sanitize=True)
-
 SET-UP
 1. A valid API key must be obtained from RapidApi and inserted into the covidData class
 2. System must have Pygal and Pycountry installed
