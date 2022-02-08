@@ -3,7 +3,25 @@
 
 DESCRIPTION
 
-This program uses Pygal's World Map module to visualize COVID-19 statistics on an interactive world map in SVG format. Statistics include active, critical, recovered, and total cases
+This program uses Pygal's World Map module to visualize COVID-19 statistics on an interactive world map in SVG format. 
+
+FEATURES
+
+1. Active COVID-19 Cases Worldwide
+
+![alt_text](https://github.com/liyanarahimi/COVIDMap/blob/f08800f456c786163db296727543b27b4d35edad/COVIDMaps/active.svg)
+
+2. Critical COVID-19 Cases Worldwide
+
+![alt_text](https://github.com/liyanarahimi/COVIDMap/blob/f08800f456c786163db296727543b27b4d35edad/COVIDMaps/critical.svg)
+
+3. Recovered COVID-19 Cases Worldwide
+
+![alt_text](https://github.com/liyanarahimi/COVIDMap/blob/f08800f456c786163db296727543b27b4d35edad/COVIDMaps/recovered.svg)
+
+4. Total COVID-19 Cases Worldwide
+
+![alt_text](https://github.com/liyanarahimi/COVIDMap/blob/f08800f456c786163db296727543b27b4d35edad/COVIDMaps/total.svg)
 
 SET-UP
 1. A valid API key must be obtained from RapidApi and inserted into the covidData class
